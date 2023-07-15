@@ -1,0 +1,181 @@
+Experiment ,Treatment,Replicate,Day,Humidity,Population
+1,Xa,1,Day 0,High,0.795880017
+1,Xa,2,Day 0,High,1.096910013
+1,Xa,3,Day 0,High,0.795880017
+1,Xa,1,Day 3,High,3.333699112
+1,Xa,2,Day 3,High,3.311091322
+1,Xa,3,Day 3,High,2.837272703
+1,Xa,1,Day 6,High,3.73539927
+1,Xa,2,Day 6,High,4.941236659
+1,Xa,3,Day 6,High,5.232738092
+1,Xa,1,Day 9,High,4.503450193
+1,Xa,2,Day 9,High,4.381340747
+1,Xa,3,Day 9,High,3.574031268
+1,Xa,1,Day 14,High,3.219125891
+1,Xa,2,Day 14,High,1.971971276
+1,Xa,3,Day 14,High,4.779385839
+1,Xa of XpXa,1,Day 0,High,1.494850022
+1,Xa of XpXa,2,Day 0,High,2
+1,Xa of XpXa,3,Day 0,High,1.273001272
+1,Xa of XpXa,1,Day 3,High,3.564887888
+1,Xa of XpXa,2,Day 3,High,5.151068046
+1,Xa of XpXa,3,Day 3,High,5.087364695
+1,Xa of XpXa,1,Day 6,High,5.232738092
+1,Xa of XpXa,2,Day 6,High,5.987523124
+1,Xa of XpXa,3,Day 6,High,5.998300215
+1,Xa of XpXa,1,Day 9,High,6.506204773
+1,Xa of XpXa,2,Day 9,High,6.571145579
+1,Xa of XpXa,3,Day 9,High,6.713813083
+1,Xa of XpXa,1,Day 14,High,4.600360206
+1,Xa of XpXa,2,Day 14,High,6.028386835
+1,Xa of XpXa,3,Day 14,High,6.193820026
+1,Xa of XpPcXa,1,Day 0,High,0.795880017
+1,Xa of XpPcXa,2,Day 0,High,1.273001272
+1,Xa of XpPcXa,3,Day 0,High,1.096910013
+1,Xa of XpPcXa,1,Day 3,High,3.610460533
+1,Xa of XpPcXa,2,Day 3,High,3.595220567
+1,Xa of XpPcXa,3,Day 3,High,3.436858075
+1,Xa of XpPcXa,1,Day 6,High,5.652457875
+1,Xa of XpPcXa,2,Day 6,High,5.452098041
+1,Xa of XpPcXa,3,Day 6,High,5.657152996
+1,Xa of XpPcXa,1,Day 9,High,6.658295755
+1,Xa of XpPcXa,2,Day 9,High,6.583044803
+1,Xa of XpPcXa,3,Day 9,High,5.1981414
+1,Xa of XpPcXa,1,Day 14,High,6.477241077
+1,Xa of XpPcXa,2,Day 14,High,6.627626935
+1,Xa of XpPcXa,3,Day 14,High,4.827288482
+2,Xa,1,Day 0,High,2.408663874
+2,Xa,2,Day 0,High,1.795880017
+2,Xa,3,Day 0,High,2.096910013
+2,Xa,1,Day 3,High,2.235212711
+2,Xa,2,Day 3,High,2.397940009
+2,Xa,3,Day 3,High,3.133339279
+2,Xa,1,Day 6,High,3.148062535
+2,Xa,2,Day 6,High,3.193820026
+2,Xa,3,Day 6,High,5.506204773
+2,Xa,1,Day 9,High,2.591760035
+2,Xa,2,Day 9,High,4.739118948
+2,Xa,3,Day 9,High,4.605907686
+2,Xa,1,Day 14,High,3.640978057
+2,Xa,2,Day 14,High,2.494850022
+2,Xa,3,Day 14,High,3.608793374
+2,Xa of XpXa,1,Day 0,High,2.364081741
+2,Xa of XpXa,2,Day 0,High,1.397940009
+2,Xa of XpXa,3,Day 0,High,2.511883361
+2,Xa of XpXa,1,Day 3,High,3.84703254
+2,Xa of XpXa,2,Day 3,High,4.219125891
+2,Xa of XpXa,3,Day 3,High,4.791515212
+2,Xa of XpXa,1,Day 6,High,6.396240224
+2,Xa of XpXa,2,Day 6,High,5.884074798
+2,Xa of XpXa,3,Day 6,High,5.866101427
+2,Xa of XpXa,1,Day 9,High,5.52117896
+2,Xa of XpXa,2,Day 9,High,5.481061737
+2,Xa of XpXa,3,Day 9,High,5.452098041
+2,Xa of XpXa,1,Day 14,High,4.269366987
+2,Xa of XpXa,2,Day 14,High,4.645606462
+2,Xa of XpXa,3,Day 14,High,5.558911123
+2,Xa of XpPcXa,1,Day 0,High,1.096910013
+2,Xa of XpPcXa,2,Day 0,High,2.449092531
+2,Xa of XpPcXa,3,Day 0,High,2.511883361
+2,Xa of XpPcXa,1,Day 3,High,3.68518172
+2,Xa of XpPcXa,2,Day 3,High,3.608793374
+2,Xa of XpPcXa,3,Day 3,High,3.536242707
+2,Xa of XpPcXa,1,Day 6,High,4.439332694
+2,Xa of XpPcXa,2,Day 6,High,4.449092531
+2,Xa of XpPcXa,3,Day 6,High,5.819503063
+2,Xa of XpPcXa,1,Day 9,High,5.360767906
+2,Xa of XpPcXa,2,Day 9,High,5.311919338
+2,Xa of XpPcXa,3,Day 9,High,5.341882561
+2,Xa of XpPcXa,1,Day 14,High,4.566732029
+2,Xa of XpPcXa,2,Day 14,High,4.051152522
+2,Xa of XpPcXa,3,Day 14,High,4.434369274
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 0,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 3,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 6,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 9,,
+,,,Day 14,,
+,,,Day 14,,
+,,,Day 14,,

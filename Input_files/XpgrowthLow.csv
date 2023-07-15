@@ -1,0 +1,181 @@
+Experiment ,Treatment,Replicate,Day,Humidity,Population
+1,Xp ,1,Day 0,Low,2.287241711
+1,Xp ,2,Day 0,Low,2.467977875
+1,Xp ,3,Day 0,Low,2.653212514
+1,Xp ,1,Day 3,Low,5.381340747
+1,Xp ,2,Day 3,Low,5.290730039
+1,Xp ,3,Day 3,Low,5.574031268
+1,Xp ,1,Day 6,Low,6.763031106
+1,Xp ,2,Day 6,Low,7.311919338
+1,Xp ,3,Day 6,Low,7.421063808
+1,Xp ,1,Day 9,Low,6.596940547
+1,Xp ,2,Day 9,Low,6.381340747
+1,Xp ,3,Day 9,Low,6.458637849
+1,Xp ,1,Day 14,Low,6.419129308
+1,Xp ,2,Day 14,Low,6.283725137
+1,Xp ,3,Day 14,Low,6.439332694
+1,Xp of XpPc,1,Day 0,Low,2.566732029
+1,Xp of XpPc,2,Day 0,Low,2.864065879
+1,Xp of XpPc,3,Day 0,Low,2.458637849
+1,Xp of XpPc,1,Day 3,Low,4.725298943
+1,Xp of XpPc,2,Day 3,Low,5.112898118
+1,Xp of XpPc,3,Day 3,Low,5.091447117
+1,Xp of XpPc,1,Day 6,Low,7.322138503
+1,Xp of XpPc,2,Day 6,Low,6.739118948
+1,Xp of XpPc,3,Day 6,Low,7.126873236
+1,Xp of XpPc,1,Day 9,Low,6.713975913
+1,Xp of XpPc,2,Day 9,Low,6.8026134
+1,Xp of XpPc,3,Day 9,Low,6.52117896
+1,Xp of XpPc,1,Day 14,Low,5.386944624
+1,Xp of XpPc,2,Day 14,Low,6.658295755
+1,Xp of XpPc,3,Day 14,Low,6.39505432
+1,Xp of XpXa,1,Day 0,Low,2.720159303
+1,Xp of XpXa,2,Day 0,Low,2.258278015
+1,Xp of XpXa,3,Day 0,Low,1.397940009
+1,Xp of XpXa,1,Day 3,Low,5.1981414
+1,Xp of XpXa,2,Day 3,Low,5.389719678
+1,Xp of XpXa,3,Day 3,Low,5.080310751
+1,Xp of XpXa,1,Day 6,Low,7.268453644
+1,Xp of XpXa,2,Day 6,Low,7.332122724
+1,Xp of XpXa,3,Day 6,Low,6.921492601
+1,Xp of XpXa,1,Day 9,Low,6.612949334
+1,Xp of XpXa,2,Day 9,Low,6.815774846
+1,Xp of XpXa,3,Day 9,Low,6.705703387
+1,Xp of XpXa,1,Day 14,Low,6.763031106
+1,Xp of XpXa,2,Day 14,Low,6.67760091
+1,Xp of XpXa,3,Day 14,Low,5.634729108
+1,Xp of XpPcXa,1,Day 0,Low,2.653212514
+1,Xp of XpPcXa,2,Day 0,Low,2.397940009
+1,Xp of XpPcXa,3,Day 0,Low,3.116026303
+1,Xp of XpPcXa,1,Day 3,Low,5.434369274
+1,Xp of XpPcXa,2,Day 3,Low,6.950781977
+1,Xp of XpPcXa,3,Day 3,Low,5.389719678
+1,Xp of XpPcXa,1,Day 6,Low,6.605907686
+1,Xp of XpPcXa,2,Day 6,Low,7.412945917
+1,Xp of XpPcXa,3,Day 6,Low,6.705039159
+1,Xp of XpPcXa,1,Day 9,Low,6.661797901
+1,Xp of XpPcXa,2,Day 9,Low,6.822208956
+1,Xp of XpPcXa,3,Day 9,Low,6.661797901
+1,Xp of XpPcXa,1,Day 14,Low,5.355188028
+1,Xp of XpPcXa,2,Day 14,Low,5.546002544
+1,Xp of XpPcXa,3,Day 14,Low,5.528273777
+2,Xp ,1,Day 0,Low,2.516039321
+2,Xp ,2,Day 0,Low,3.068881289
+2,Xp ,3,Day 0,Low,2.307763378
+2,Xp ,1,Day 3,Low,5.038918066
+2,Xp ,2,Day 3,Low,4.795880017
+2,Xp ,3,Day 3,Low,4.494850022
+2,Xp ,1,Day 6,Low,7.763031106
+2,Xp ,2,Day 6,Low,6.239143005
+2,Xp ,3,Day 6,Low,6.426816136
+2,Xp ,1,Day 9,Low,6.138302698
+2,Xp ,2,Day 9,Low,6.449092531
+2,Xp ,3,Day 9,Low,6.481621756
+2,Xp ,1,Day 14,Low,6.118099312
+2,Xp ,2,Day 14,Low,7.884074798
+2,Xp ,3,Day 14,Low,7.491964333
+2,Xp of XpPc,1,Day 0,Low,1.193820026
+2,Xp of XpPc,2,Day 0,Low,3.045078375
+2,Xp of XpPc,3,Day 0,Low,2.449092531
+2,Xp of XpPc,1,Day 3,Low,3.89279003
+2,Xp of XpPc,2,Day 3,Low,4.449092531
+2,Xp of XpPc,3,Day 3,Low,3.670941281
+2,Xp of XpPc,1,Day 6,Low,5.413928114
+2,Xp of XpPc,2,Day 6,Low,5.453891414
+2,Xp of XpPc,3,Day 6,Low,5.5382123
+2,Xp of XpPc,1,Day 9,Low,3.971971276
+2,Xp of XpPc,2,Day 9,Low,4.62518379
+2,Xp of XpPc,3,Day 9,Low,5.262005888
+2,Xp of XpPc,1,Day 14,Low,5.596940547
+2,Xp of XpPc,2,Day 14,Low,5.60711979
+2,Xp of XpPc,3,Day 14,Low,5.620331287
+2,Xp of XpXa,1,Day 0,Low,2.16546799
+2,Xp of XpXa,2,Day 0,Low,2.97356844
+2,Xp of XpXa,3,Day 0,Low,3.10986436
+2,Xp of XpXa,1,Day 3,Low,3.19382003
+2,Xp of XpXa,2,Day 3,Low,3.97197128
+2,Xp of XpXa,3,Day 3,Low,3.49485002
+2,Xp of XpXa,1,Day 6,Low,4.273001272
+2,Xp of XpXa,2,Day 6,Low,4.148062535
+2,Xp of XpXa,3,Day 6,Low,4.806603883
+2,Xp of XpXa,1,Day 9,Low,4.926213786
+2,Xp of XpXa,2,Day 9,Low,5.026328939
+2,Xp of XpXa,3,Day 9,Low,5.486076097
+2,Xp of XpXa,1,Day 14,Low,6.605907686
+2,Xp of XpXa,2,Day 14,Low,6.204119983
+2,Xp of XpXa,3,Day 14,Low,7.429032737
+2,Xp of XpPcXa,1,Day 0,Low,1.494850022
+2,Xp of XpPcXa,2,Day 0,Low,2.73788807
+2,Xp of XpPcXa,3,Day 0,Low,2.516039321
+2,Xp of XpPcXa,1,Day 3,Low,4.62518379
+2,Xp of XpPcXa,2,Day 3,Low,5.080310751
+2,Xp of XpPcXa,3,Day 3,Low,5.258278015
+2,Xp of XpPcXa,1,Day 6,Low,5.1981414
+2,Xp of XpPcXa,2,Day 6,Low,6.739118948
+2,Xp of XpPcXa,3,Day 6,Low,6.491964333
+2,Xp of XpPcXa,1,Day 9,Low,5.307763378
+2,Xp of XpPcXa,2,Day 9,Low,6.792994329
+2,Xp of XpPcXa,3,Day 9,Low,5.640978057
+2,Xp of XpPcXa,1,Day 14,Low,7.165791302
+2,Xp of XpPcXa,2,Day 14,Low,7.444544903
+2,Xp of XpPcXa,3,Day 14,Low,6.807234768
+3,Xp ,1,Day 0,Low,2.544068044
+3,Xp ,2,Day 0,Low,2.176091259
+3,Xp ,3,Day 0,Low,3.136324132
+3,Xp ,1,Day 3,Low,5.494850022
+3,Xp ,2,Day 3,Low,4.494850022
+3,Xp ,3,Day 3,Low,4.193820026
+3,Xp ,1,Day 6,Low,6.243038049
+3,Xp ,2,Day 6,Low,6.704365036
+3,Xp ,3,Day 6,Low,5.339948062
+3,Xp ,1,Day 9,Low,6.561175947
+3,Xp ,2,Day 9,Low,5.942008053
+3,Xp ,3,Day 9,Low,7.627626935
+3,Xp ,1,Day 14,Low,5.536242707
+3,Xp ,2,Day 14,Low,6.40600763
+3,Xp ,3,Day 14,Low,6.367006294
+3,Xp of XpPc,1,Day 0,Low,2.70969387
+3,Xp of XpPc,2,Day 0,Low,2.647138366
+3,Xp of XpPc,3,Day 0,Low,3.356981401
+3,Xp of XpPc,1,Day 3,Low,3.193820026
+3,Xp of XpPc,2,Day 3,Low,3.670941281
+3,Xp of XpPc,3,Day 3,Low,3.494850022
+3,Xp of XpPc,1,Day 6,Low,4.84703254
+3,Xp of XpPc,2,Day 6,Low,5.138302698
+3,Xp of XpPc,3,Day 6,Low,4.971971276
+3,Xp of XpPc,1,Day 9,Low,5.185046102
+3,Xp of XpPc,2,Day 9,Low,4.68518172
+3,Xp of XpPc,3,Day 9,Low,5.307763378
+3,Xp of XpPc,1,Day 14,Low,4.773603623
+3,Xp of XpPc,2,Day 14,Low,5.128318477
+3,Xp of XpPc,3,Day 14,Low,5.152861418
+3,Xp of XpXa,1,Day 0,Low,3.384711743
+3,Xp of XpXa,2,Day 0,Low,3.389166084
+3,Xp of XpXa,3,Day 0,Low,1.750122527
+3,Xp of XpXa,1,Day 3,Low,3.193820026
+3,Xp of XpXa,2,Day 3,Low,3.971971276
+3,Xp of XpXa,3,Day 3,Low,3.494850022
+3,Xp of XpXa,1,Day 6,Low,4.273001272
+3,Xp of XpXa,2,Day 6,Low,4.148062535
+3,Xp of XpXa,3,Day 6,Low,4.806603883
+3,Xp of XpXa,1,Day 9,Low,4.926213786
+3,Xp of XpXa,2,Day 9,Low,5.026328939
+3,Xp of XpXa,3,Day 9,Low,5.486076097
+3,Xp of XpXa,1,Day 14,Low,5.367006294
+3,Xp of XpXa,2,Day 14,Low,4.608793374
+3,Xp of XpXa,3,Day 14,Low,5.320924824
+3,Xp of XpPcXa,1,Day 0,Low,3.44618754
+3,Xp of XpPcXa,2,Day 0,Low,2.477121255
+3,Xp of XpPcXa,3,Day 0,Low,2.566732029
+3,Xp of XpPcXa,1,Day 3,Low,3.494850022
+3,Xp of XpPcXa,2,Day 3,Low,3.193820026
+3,Xp of XpPcXa,3,Day 3,Low,4.307763378
+3,Xp of XpPcXa,1,Day 6,Low,4.784884633
+3,Xp of XpPcXa,2,Day 6,Low,5.133339279
+3,Xp of XpPcXa,3,Day 6,Low,5.206657251
+3,Xp of XpPcXa,1,Day 9,Low,5.731639121
+3,Xp of XpPcXa,2,Day 9,Low,5.486076097
+3,Xp of XpPcXa,3,Day 9,Low,5.258278015
+3,Xp of XpPcXa,1,Day 14,Low,4.591760035
+3,Xp of XpPcXa,2,Day 14,Low,4.369911285
+3,Xp of XpPcXa,3,Day 14,Low,4.68518172

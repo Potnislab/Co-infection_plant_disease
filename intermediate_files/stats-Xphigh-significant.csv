@@ -1,0 +1,10 @@
+﻿.y.,Day,group1,group2,p.value,p.signif
+Population,Day 3, Xp        ,Xp of XpXa ,0.0021,**
+Population,Day 3,Xp of XpPcXa ,Xp of XpXa     ,0.0008,***
+Population,Day 6, Xp        ,Xp of XpXa ,0.0002,***
+Population,Day 9, Xp        ,Xp of XpPc    ,0.032,*
+Population,Day 9, Xp        ,Xp of XpPcXa,0.0518,*
+Population,Day 9, Xp        ,Xp of XpXa ,0.0001,***
+Population,Day 14, Xp        ,Xp of XpPc    ,0.017,*
+Population,Day 14, Xp        ,Xp of XpPcXa,0.0001,***
+Population,Day 14, Xp        ,Xp of XpXa ,0.0001,***
